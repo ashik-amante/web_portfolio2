@@ -1,0 +1,120 @@
+﻿body {
+    margin: 20px;
+}
+section{
+    height: 600px;
+}
+.half-width {
+    float: left;
+    width : 50%;
+    height: 500px;
+   
+}
+.quartar-width {
+    float: left;
+    width: 27%;
+    hight: 500px;
+    padding: 15px;
+    text-align:justify ;
+    margin: 10px;
+    box-shadow: 5px 5px 20px black;
+    border-radius: 15px;
+}
+
+.headline{
+    font-size : 50px; 
+}
+.headline-center{
+    font-size : 30px;
+    text-align : center;
+}
+.headline-white{
+    font-size: 40px;
+    color: aliceblue;
+    padding: 50px;
+    width: 100%;
+    
+}
+.orange_highlight
+{
+    color : darkorange;
+
+}
+.blue_highlight
+{
+    
+    
+    font-size: 40px;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    border-radius: 10px;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg,orange,tomato);
+    padding : 15px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight : 700 ;
+    position: absolute;
+    height:20px;
+    width:150px;
+    color : white;
+    margin-top: 20px;
+
+}
+
+.lat{
+    margin-top: 100px;
+   
+}
+.inq {
+   
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-bottom: 200px;
+   
+    
+    background-image: url(../personal-website-main/shapes/Group_33094_1.png);
+    background-size: 100% 150px;
+    width: 70%;
+    height: 150px;
+    background-repeat: no-repeat;
+
+    
+    
+   
+}
+.kj{
+    margin-left: 300px;
+}
+.text{
+     font-size : 20px;
+    text-align : center;
+    color : grey;
+    
+}
+.icon{
+   
+    text-align: center;
+    
+}
+.link-butt {
+    text-decoration: none;
+    background-image: linear-gradient(45deg,orange,tomato);
+    padding : 15px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight : 700 ;
+  
+    height:20px;
+    width:150px;
+    color : white;
+    margin-top: 20px;
+
+}
+
+
